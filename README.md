@@ -16,12 +16,7 @@ I love combining device physics with AI optimization and simulation tools.
 Python · SPICE · TCAD · ANSYS 
 PyTorch · TensorFlow · Git · GitHub Actions
 
-## 📂 Projects
-- 📖 **Stretchable OLED Fabrication** – Developed multilayer stretchable OLEDs with enhanced mechanical robustness via transfer-based assembly
-- 📈 **OLED Lifetime Prediction** – Using AI to model long-term degradation  
-- 🧪 **Stretchable Pixel Design** – Serpentine/kirigami optimization with FEA  
-- 🤖 **Parameter Fitting Tool** – Curve-fitting engine using SciPy + GA
-
+## 🗓️ Ongoing Topics
 🌱 **I'm currently learning**
 - AI-based surrogate modeling for device optimization
 - PySpice / Verilog-A compact model development
@@ -35,6 +30,12 @@ PyTorch · TensorFlow · Git · GitHub Actions
 🤔 **I'm looking for help with**
 - Advanced GitHub workflows (CI/CD, automation)
 - Open-source SPICE modeling libraries
+
+## 📂 Projects
+- 📖 **Stretchable OLED Fabrication** – Developed multilayer stretchable OLEDs with enhanced mechanical robustness via transfer-based assembly
+- 📈 **OLED Lifetime Prediction** – Using AI to model long-term degradation  
+- 🧪 **Stretchable Pixel Design** – Serpentine/kirigami optimization with FEA  
+- 🤖 **Parameter Fitting Tool** – Curve-fitting engine using SciPy + GA
 
 ## 📫 Contact
 📧 yhson6950@gmail.com
