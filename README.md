@@ -39,6 +39,6 @@ PyTorch · TensorFlow · Git · GitHub Actions
 
 ## 📫 Contact
 📧 yhson6950@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+🔗 [LinkedIn](https://linkedin.com/in/younghyun-son)
 
 
